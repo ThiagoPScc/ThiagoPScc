@@ -52,8 +52,7 @@ Ganhei um concurso de artes no ensino médio, fui um dos responsáveis por fazer
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![noepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
-<br>
-![ThiagoPScc GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPScc&theme=graywhite&show_icons=true)
+![ThiagoPScc](https://github-readme-stats.vercel.app/api?username=ThiagoPScc&theme=graywhite&show_icons=true)
 
 
 
