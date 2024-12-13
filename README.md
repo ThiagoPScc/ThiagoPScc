@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there/Eae rapaziada👋
 
-<!--
-**ThiagoPScc/ThiagoPScc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -30,4 +29,3 @@ Projetos pessoais:
 E-mail:tpsworkdev@gmail.com
 - ⚡ Fun fact/Fato engraçado:
 Ganhei um concurso de artes no ensino médio, fui um dos responsáveis por fazer artes no muro dentro da ETEC Basilides, fiz um desenho bonito de um robo corredor no meio de alguns animais, algumas pessoas vinham perguntar aos ganhadores os significados das obras e qual foi o processo criativo, todos tinham histórias lindas, mas eu só tinha feito um robo dahora. Então caso você entre dentro do pátio da ETEC, e veja um robo dahora lá, ele é só isso mesmo, não tem mais nada de profundo, vá apreciar as outras artes.
--->
