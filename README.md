@@ -1,9 +1,5 @@
 ## Hi there/Eae rapaziada👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on / Atualmente estou trabalhando em:
 Profissionalmente:
   Faço estágio na Secretaria Municipal da Fazenda, lá trabalho com apoio técnico para os servidores, faço manutenção de sistemas da divisão, crio automações para a parte administrativa, crio documentações de sistemas e faço a manutenção das planilhas e gráficos do Excel e PowerBI.
