@@ -7,13 +7,13 @@ Projetos pessoais:
   Tenho alguns que me dão muita dor de cabeça. Estou trabalhando em um site para meu RPG, já possui o dominio: https://Cyberfunk.online (provavelmente ainda não está no ar), está sendo um projeto longo, mas vale a pena, ele está em um dos meus repositórios caso tenha curiosidade. 
   Outro projeto seria o Piadocas, não é muito ligado a programação, mas é um projeto onde crio materiais educativos com as informações que estou estudando, assim fixo as informações na minha cabeça e de sobra ainda ajudo que está querendo estudar. 
 
-- 🌱 I’m currently learning/Atualmente estou aprendendo:
-  -- JS intermedioário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf, funções de criação de objetos HTML dentro do js e POO.
-  -- Bibliotecas de CSS como bootsrap.
-  -- Básico de ciência de dados com Python e as bibliotecas mais usadas(Pandas, matplotlib, NumPy e etc..)
-  • C# para Unity.
-  • Automações básicas com Python, HTML, CSS, Google Sheets e gmail. (não ta legal)
-  • O básico de design para poder deixar os sites mais navegáveis e menos feios.
+- 🌱 I’m currently learning/Atualmente estou aprendendo:<br />
+  • JS intermedioário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf, funções de criação de objetos HTML dentro do js e POO.<br />
+  • Bibliotecas de CSS como bootsrap.<br />
+  • Básico de ciência de dados com Python e as bibliotecas mais usadas(Pandas, matplotlib, NumPy e etc..)<br />
+  • C# para Unity.<br />
+  • Automações básicas com Python, HTML, CSS, Google Sheets e gmail. (não ta legal)<br />
+  • O básico de design para poder deixar os sites mais navegáveis e menos feios.<br />
 
 - 👯 I’m looking to collaborate on/ Estou procurando colaborar em:
   Cara tenho 20 anos, to na idade de tentar de tudo, só chamar.
