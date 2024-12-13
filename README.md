@@ -1,5 +1,7 @@
 ## Hi there/Eae rapaziada👋
 
+
+
 - 🔭 I’m currently working on / Atualmente estou trabalhando em:
 Profissionalmente:
   Faço estágio na Secretaria Municipal da Fazenda, lá trabalho com apoio técnico para os servidores, faço manutenção de sistemas da divisão, crio automações para a parte administrativa, crio documentações de sistemas e faço a manutenção das planilhas e gráficos do Excel e PowerBI.
@@ -49,5 +51,9 @@ Ganhei um concurso de artes no ensino médio, fui um dos responsáveis por fazer
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![noepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+<br>
+![ThiagoPScc GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoPScc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
