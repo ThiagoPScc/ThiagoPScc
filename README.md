@@ -22,7 +22,7 @@ Projetos pessoais:
 - 🤔 I’m looking for help with/ estou precisando de ajuda em:
   Tudo.
 - 💬 Ask me about/me pergunte sobre:
-  Pergunte o que quiser, mas provavelmente eu não sei, mas pode pergunta.
+  Pergunte o que quiser, provavelmente eu não sei, mas pode pergunta.
 - 📫 How to reach me/Como entrar em contato comigo:
 E-mail:tpsworkdev@gmail.com
 - ⚡ Fun fact/Fato engraçado:
