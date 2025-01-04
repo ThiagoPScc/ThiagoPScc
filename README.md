@@ -10,7 +10,7 @@ Projetos pessoais:
   Outro projeto seria o Piadocas, não é muito ligado a programação, mas é um projeto onde crio materiais educativos com as informações que estou estudando, assim fixo as informações na minha cabeça e de sobra ainda ajudo que está querendo estudar. 
 
 - 🌱 I’m currently learning/Atualmente estou aprendendo:<br />
-  • JS intermedioário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf, funções de criação de objetos HTML dentro do js e POO.<br />
+  • JS intermediário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf, funções de criação de objetos HTML dentro do js e POO.<br />
   • Bibliotecas de CSS como bootsrap.<br />
   • Básico de ciência de dados com Python e as bibliotecas mais usadas(Pandas, matplotlib, NumPy e etc..)<br />
   • C# para Unity.<br />
