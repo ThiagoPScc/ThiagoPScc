@@ -25,8 +25,6 @@ Projetos pessoais:
   Pergunte o que quiser, provavelmente eu não sei, mas pode pergunta.
 - 📫 How to reach me/Como entrar em contato comigo:
 E-mail:tpsworkdev@gmail.com
-- ⚡ Fun fact/Fato engraçado:
-Ganhei um concurso de artes no ensino médio, fui um dos responsáveis por fazer artes no muro dentro da ETEC Basilides, fiz um desenho bonito de um robo corredor no meio de alguns animais, algumas pessoas vinham perguntar aos ganhadores os significados das obras e qual foi o processo criativo, todos tinham histórias lindas, mas eu só tinha feito um robo dahora. Então caso você entre no pátio da ETEC, e veja um robo dahora lá, ele é só isso mesmo, não tem mais nada de profundo.
 
 <hr>
 
