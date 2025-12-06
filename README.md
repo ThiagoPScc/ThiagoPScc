@@ -1,10 +1,8 @@
-## Hi there/Eae rapaziada👋
+## Hi there/Opa, tudo bem?👋
 
 
 
 - 🔭 I’m currently working on / Atualmente estou trabalhando em:
-Profissionalmente:
-  Faço estágio na Secretaria Municipal da Fazenda, lá trabalho com apoio técnico para os servidores, faço manutenção de sistemas da divisão, crio automações para a parte administrativa, crio documentações de sistemas e faço a manutenção das planilhas e gráficos do Excel e PowerBI.
 Projetos pessoais:
   Tenho alguns que me dão muita dor de cabeça. Estou trabalhando em um site para meu RPG, já possui o dominio: https://Cyberfunk.online (provavelmente ainda não está no ar), está sendo um projeto longo, mas vale a pena, ele está em um dos meus repositórios caso tenha curiosidade. 
   Outro projeto seria o Piadocas, não é muito ligado a programação, mas é um projeto onde crio materiais educativos com as informações que estou estudando, assim fixo as informações na minha cabeça e de sobra ainda ajudo que está querendo estudar. 
@@ -17,10 +15,6 @@ Projetos pessoais:
   • Automações básicas com Python, HTML, CSS, Google Sheets e gmail. (não ta legal)<br />
   • O básico de design para poder deixar os sites mais navegáveis e menos feios.<br />
 
-- 👯 I’m looking to collaborate on/ Estou procurando colaborar em:
-  Cara tenho 20 anos, to na idade de tentar de tudo, só chamar.
-- 🤔 I’m looking for help with/ estou precisando de ajuda em:
-  Tudo.
 - 💬 Ask me about/me pergunte sobre:
   Pergunte o que quiser, provavelmente eu não sei, mas pode pergunta.
 - 📫 How to reach me/Como entrar em contato comigo:
