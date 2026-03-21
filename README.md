@@ -8,17 +8,16 @@ Projetos pessoais:
   Outro projeto seria o Piadocas, não é muito ligado a programação, mas é um projeto onde crio materiais educativos com as informações que estou estudando, assim fixo as informações na minha cabeça e de sobra ainda ajudo que está querendo estudar. 
 
 - 🌱 I’m currently learning/Atualmente estou aprendendo:<br />
-  • JS intermediário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf, funções de criação de objetos HTML dentro do js e POO.<br />
-  • Bibliotecas de CSS como bootsrap.<br />
+  • JS intermediário, estou estudando bibliotecas para edição de documentos, criação de arquivos pdf.<br />
   • Básico de ciência de dados com Python e as bibliotecas mais usadas(Pandas, matplotlib, NumPy e etc..)<br />
   • C# para Unity.<br />
-  • Automações básicas com Python, HTML, CSS, Google Sheets e gmail. (não ta legal)<br />
-  • O básico de design para poder deixar os sites mais navegáveis e menos feios.<br />
+  • Automações básicas com Python, HTML, CSS, Google Sheets e gmail.<br />
+  • O básico de design e UI/UX para melhorar a qualidade dos meus trabalhos.<br />
 
-- 💬 Ask me about/me pergunte sobre:
-  Pergunte o que quiser, provavelmente eu não sei, mas pode pergunta.
+
 - 📫 How to reach me/Como entrar em contato comigo:
-E-mail:tpsworkdev@gmail.com
+E-mail: tpsworkdev@gmail.com
+cel: 11977449984
 
 <hr>
 
